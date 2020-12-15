@@ -19,5 +19,7 @@ public interface ApiService {
      */
     @Streaming
     @GET("fs08/2017/05/02/7/106_64d3e3f76babc7bce131650c1c21350d.apk")
-    Flowable<ResponseBody> download();
+  Flowable<ResponseBody> download();
+  //富偶然恢复到你家开的
+  //到此一游
 }
